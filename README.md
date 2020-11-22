@@ -142,11 +142,11 @@ According to Glassdoor, the base salary for an Android engineer is **~\$95,000/y
 [and-nano]: https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
 [and-knano]: https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940
 
-## Web Developer
+## Full-Stack Web Developer
 
 ### Overview
 
-A full-stack developer is a web developer or engineer who works with both the front and back ends of a website or application—meaning they can tackle projects that involve databases, building user-facing websites, or even work with clients during the planning phase of projects.
+A full-stack web developer is a web developer or engineer who works with both the front and back ends of a website or application—meaning they can tackle projects that involve databases, building user-facing websites, or even work with clients during the planning phase of projects.
 
 Full-stack web developers:
 
@@ -187,6 +187,8 @@ Full-stack web developers:
 | [Full-Stack Web Dev Course](https://lambdaschool.com/courses/full-stack-web-development)                                                   | Lambda School | \$30k upfront or via [ISA](https://lambdaschool.com/isa)                                      | 9-18 months | B          | :white_check_mark:   | :white_check_mark: |
 | [Full-Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044)                          | Udacity       | \$399/mo                                                                                      | 4 months    | :question: | :white_check_mark:   | :white_check_mark: |
 | [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/)                                           | freeCodeCamp  | Free                                                                                          | 2-3 months  | PT         | :white_check_mark:   | :x:                |
+| [Software Engineering Career Track](https://www.springboard.com/courses/software-engineering-career-track/)                                | SpringBoard   | \$1,150/mo                                                                                    | 6 months    | PT         | :white_check_mark:   | :white_check_mark: |
+| [Software Engineering Immersive](https://codesmith.io/software-engineering-immersive)                                                      | CodeSmith     | \$18,800                                                                                      | 4 months    | FT         | :x:                  | :white_check_mark: |
 | [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)                          | Udemy         | \$16                                                                                          | 2-4 weeks   | PT         | :white_check_mark:   | :x:                |
 | [UST Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react)                      | Coursera      | \$49/mo                                                                                       | 4 months    | PT         | :white_check_mark:   | :x:                |
 | [Web Developer Track](https://www.bloc.io/web-developer-track)                                                                             | Bloc          | \$7,500                                                                                       | 8 months    | B          | :white_check_mark:   | :white_check_mark: |
@@ -235,13 +237,13 @@ According to Glassdoor, the base salary of a DevOps engineer is **~\$100,000/yr*
 
 ### Bootcamps, Courses & Certifications
 
-| Name                                                                 | Provider | :dollar: | :clock1:  | :date: | :woman_technologist: | :handshake:        |
-| -------------------------------------------------------------------- | -------- | -------- | --------- | ------ | -------------------- | ------------------ |
-| [Architecting with Google Kubernetes Engine Specialization][ops-gke] | Coursera | \$49/mo  | 2 months  | PT     | :white_check_mark:   | :x:                |
-| [Cloud Developer Nanodegree][ops-cloud]                              | Udacity  | \$399/mo | 4 months  | PT     | :white_check_mark:   | :white_check_mark: |
-| [Intro to DevOps][ops-intro-ii]                                      | Udacity  | Free     | 3 weeks   | PT     | :white_check_mark:   | :x:                |
-| [Introduction to DevOps: Practices and Tools][ops-intro]             | edX      | \$465.30 | 7 months  | PT     | :white_check_mark:   | :x:                |
-| [Terraform Basics (Guided Project)][ops-tf]                          | Coursera | Free     | 1-2 hours | PT     | :white_check_mark:   | :x:                |
+| Name                                                                           | Provider | :dollar: | :clock1:  | :date: | :woman_technologist: | :handshake:        |
+| ------------------------------------------------------------------------------ | -------- | -------- | --------- | ------ | -------------------- | ------------------ |
+| [Architecting with Google Kubernetes Engine Specialization][ops-gke]           | Coursera | \$49/mo  | 2 months  | PT     | :white_check_mark:   | :x:                |
+| [Intro to DevOps][ops-intro-ii]                                                | Udacity  | Free     | 3 weeks   | PT     | :white_check_mark:   | :x:                |
+| [Introduction to DevOps: Practices and Tools][ops-intro]                       | edX      | \$465.30 | 7 months  | PT     | :white_check_mark:   | :x:                |
+| [School of Cloud Computing](https://www.udacity.com/school-of-cloud-computing) | Udacity  | \$399/mo | 4 months  | PT     | :white_check_mark:   | :white_check_mark: |
+| [Terraform Basics (Guided Project)][ops-tf]                                    | Coursera | Free     | 1-2 hours | PT     | :white_check_mark:   | :x:                |
 
 [ops-intro]: https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools
 [ops-intro-ii]: https://www.udacity.com/course/intro-to-devops--ud611
@@ -266,18 +268,24 @@ According to Glassdoor, the base salary of a DevOps engineer is **~\$100,000/yr*
 | Name | Description |
 | ---- | ----------- |
 
-
 ### Bootcamps, Courses & Certifications
 
-| Name                                                                                                                | Provider | :dollar: | :clock1:   | :date: | :woman_technologist: | :handshake: |
-| ------------------------------------------------------------------------------------------------------------------- | -------- | -------- | ---------- | ------ | -------------------- | ----------- |
-| [ASU AI and Machine Learning MasterTrack Certificate](https://www.coursera.org/mastertrack/ai-machine-learning-asu) | Coursera | \$4,500  | 6-9 months | PT     | :white_check_mark:   | :x:         |
+| Name                                                                                                                                                                                                          | Provider    | :dollar:   | :clock1:   | :date: | :woman_technologist: | :handshake:        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------- | ---------- | ------ | -------------------- | ------------------ |
+| [ASU AI and Machine Learning MasterTrack Certificate](https://www.coursera.org/mastertrack/ai-machine-learning-asu)                                                                                           | Coursera    | \$4,500    | 6-9 months | PT     | :white_check_mark:   | :x:                |
+| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)                                                                                                                        | Coursera    | \$49/mo    | 4 months   | PT     | :white_check_mark:   | :x:                |
+| [HSE Advanced Machine Learning](https://www.coursera.org/specializations/aml)                                                                                                                                 | Coursera    | \$49/mo    | 10 months  | PT     | :white_check_mark:   | :x:                |
+| [LMJU & IIITB Master of Science in Machine Learning & AI](https://www.upgrad.com/us/masters-in-ml-ai-ljmu-iiitb)                                                                                              | upGrad      | \$7,499    | 18 months  | PT     | :white_check_mark:   | :white_check_mark: |
+| [MIT Professional Certificate Program in Machine Learning & Artificial Intelligence](https://professional.mit.edu/programs/certificate-programs/professional-certificate-program-machine-learning-artificial) | MIT         | \$6,000+   | 2+ weeks   | FT     | :x:                  | :white_check_mark: |
+| [ML Engineering Career Track](https://www.springboard.com/courses/ai-machine-learning-career-track/)                                                                                                          | SpringBoard | \$8,940/mo | 6 months   | PT     | :white_check_mark:   | :white_check_mark: |
+| [School of AI](https://www.udacity.com/school-of-ai)                                                                                                                                                          | Udacity     | \$399/mo   | 4 months   | PT     | :white_check_mark:   | :white_check_mark: |
+| [Software Engineering Immersive](https://codesmith.io/software-engineering-immersive)                                                                                                                         | CodeSmith   | \$18,800   | 4 months   | FT     | :x:                  | :white_check_mark: |
+| [UWashington Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)                                                                                                      | Coursera    | \$49/mo    | 7 months   | PT     | :white_check_mark:   | :x:                |
 
 ### Communities
 
 | Name | Platform | Members | Description |
 | ---- | -------- | ------- | ----------- |
-
 
 ## Data Scientist
 
@@ -307,8 +315,10 @@ According to Glassdoor, data scientists make a base salary of **~\$115,000/yr**.
 | Name                                                                                                                                              | Provider         | :dollar:                                                                                | :clock1:   | :date: | :woman_technologist: | :handshake:        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------------------------------------------------------------------- | ---------- | ------ | -------------------- | ------------------ |
 | [365 DataScience](https://365datascience.com/)                                                                                                    | 365 DataScience  | \$29/mo                                                                                 | :question: | PT     | :white_check_mark:   | :white_check_mark: |
+| [UMichigan Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)                         | Coursera         | \$49/mo                                                                                 | 5 months   | PT     | :white_check_mark:   | :x:                |
 | [Berkeley Online Data Analytics Boot Camp](https://bootcamp.berkeley.edu/data/online/)                                                            | UC Berkeley      | ~\$11,995                                                                               | 6 months   | PT     | :white_check_mark:   | :x:                |
 | [DataQuest](https://www.dataquest.io/)                                                                                                            | DataQuest        | \$49/mo                                                                                 | :question: | PT     | :white_check_mark:   | :white_check_mark: |
+| [Data Science Career Track](https://www.springboard.com/courses/data-science-career-track/)                                                       | SpringBoard      | \$1,490/mo                                                                              | 6 months   | PT     | :white_check_mark:   | :white_check_mark: |
 | [Data Science Certificate](https://brainstation.io/course-package/data-science/online)                                                            | BrainStation     | \$3,250                                                                                 | 2 months   | PT     | :white_check_mark:   | :x:                |
 | [Data Science Course](https://generalassemb.ly/education/data-science)                                                                            | General Assembly | \$3,950                                                                                 | 2-3 months | PT     | :x:                  | :x:                |
 | [Data Science Immersive](https://generalassemb.ly/education/data-science-immersive)                                                               | General Assembly | \$15,950 or via [ISA](https://generalassemb.ly/blog/what-is-an-income-share-agreement/) | 2-3 months | FT     | :x:                  | :white_check_mark: |
@@ -319,6 +329,7 @@ According to Glassdoor, data scientists make a base salary of **~\$115,000/yr**.
 | [IBM Data Science Fundamentals with Python and SQL Specialization](https://www.coursera.org/specializations/data-science-fundamentals-python-sql) | Coursera         | \$39/mo                                                                                 | 5 months   | PT     | :white_check_mark:   | :x:                |
 | [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)                                  | Coursera         | \$39/mo                                                                                 | 10 months  | PT     | :white_check_mark:   | :x:                |
 | [IBM Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science)                             | Coursera         | \$39/mo                                                                                 | 4 months   | PT     | :white_check_mark:   | :x:                |
+| [IIITB Master of Science in Data Science](https://www.upgrad.com/us/data-science-masters-degree-iiitb)                                            | upGrad           | \$7,499                                                                                 | 18 months  | PT     | :white_check_mark:   | :white_check_mark: |
 | [JHU Advanced Statistics for Data Science Specialization](https://www.coursera.org/specializations/advanced-statistics-data-science)              | Coursera         | \$39/mo                                                                                 | 5 months   | PT     | :white_check_mark:   | :x:                |
 | [Master of Machine Learning and Data Science from Imperial College London](https://www.coursera.org/degrees/msc-machine-learning-imperial)        | Coursera         | £28,000                                                                                 | 2 years    | FT     | :white_check_mark:   | :x:                |
 | [MS in Data Science from CU Boulder](https://www.coursera.org/degrees/master-of-science-data-science-boulder)                                     | Coursera         | :question:                                                                              | 2 years    | FT     | :white_check_mark:   | :x:                |
@@ -496,7 +507,6 @@ According to Glassdoor, the base pay for a UX/UI designer is **~\$100,000/yr**.
 | Name | Platform | Members | Description |
 | ---- | -------- | ------- | ----------- |
 
-
 # Product & Research
 
 ## Product Manager
@@ -522,18 +532,22 @@ According to Glassdoor, the base salary of a product manager is **~\$100,000/yr*
 
 ### Bootcamps, Courses & Certifications
 
-| Name                                                                                               | Provider         | :dollar:            | :clock1:          | :date:     | :woman_technologist: | :handshake:        |
-| -------------------------------------------------------------------------------------------------- | ---------------- | ------------------- | ----------------- | ---------- | -------------------- | ------------------ |
-| [Advanced Product Management Certification][pm-pf]                                                 | Product Faculty  | \$2,950             | 2 months          | :question: | :white_check_mark:   | :x:                |
-| [AWS Real-World Product Management Specialization][pm-aws]                                         | Coursera         | \$79/mo             | 4 months          | PT         | :white_check_mark:   | :x:                |
-| [Complete Product Management Workshop][pm-pd]                                                      | ProductDive      | ~\$355<sup>\*</sup> | 2 months          | PT         | :white_check_mark:   | :x:                |
-| [Product Management Certificate](https://brainstation.io/course-package/product-management/online) | BrainStation     | \$3,250             | 2 months          | PT         | :white_check_mark:   | :x:                |
-| [Product Manager Certificate][pm-pmc]                                                              | ProductSchool    | \$4,199+            | 5 days - 2 months | B          | :white_check_mark:   | :white_check_mark: |
-| [Product Management Course][pm-ga]                                                                 | General Assembly | \$3,950             | 1-3 months        | :question: | :x:                  | :x:                |
-| [Product Manager Nanodegree][pm-uda]                                                               | Udacity          | \$399/mo            | 4 months          | :question: | :white_check_mark:   | :white_check_mark: |
-| [RIT MicroMasters Program in Project Management][pm-rit]                                           | edX              | \$810               | 8 months          | PT         | :white_check_mark:   | :x:                |
-| [Ultiva Product Management][pm-ult]                                                                | Ultiva           | ~\$300<sup>\*</sup> | 4 months          | PT         | :white_check_mark:   | :white_check_mark: |
-| [UVA Digital Product Management Specialization][pm-uva]                                            | Coursera         | \$79/mo             | 3 months          | PT         | :white_check_mark:   | :x:                |
+| Name                                                                                               | Provider                         | :dollar:            | :clock1:          | :date:     | :woman_technologist: | :handshake:        |
+| -------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------- | ----------------- | ---------- | -------------------- | ------------------ |
+| [Advanced Product Management Certification][pm-pf]                                                 | Product Faculty                  | \$2,950             | 2 months          | :question: | :white_check_mark:   | :x:                |
+| [AWS Real-World Product Management Specialization][pm-aws]                                         | Coursera                         | \$79/mo             | 4 months          | PT         | :white_check_mark:   | :x:                |
+| [Complete Product Management Workshop][pm-pd]                                                      | ProductDive                      | ~\$355<sup>\*</sup> | 2 months          | PT         | :white_check_mark:   | :x:                |
+| [Duke Product Management Certification Program](https://www.upgrad.com/us/product-management)      | upGrad                           | \$540/mo            | 6 months          | PT         | :white_check_mark:   | :white_check_mark: |
+| [Imperial Brand and Product Strategy](https://execed.imperial.ac.uk/product-strategy/index.php)    | Imperial College Business School | £1,600              | 2 months          | PT         | :white_check_mark:   | :x:                |
+| [Product Management Certificate](https://brainstation.io/course-package/product-management/online) | BrainStation                     | \$3,250             | 2 months          | PT         | :white_check_mark:   | :x:                |
+| [Product Management Certificate](https://info.ecornell.com/product-management)                     | Cornell University               | :question:          | :question:        | PT         | :white_check_mark:   | :x:                |
+| [Product Manager Certificate][pm-pmc]                                                              | ProductSchool                    | \$4,199+            | 5 days - 2 months | B          | :white_check_mark:   | :white_check_mark: |
+| [Product Strategy Certification](https://online.em.kellogg.northwestern.edu/product-strategy)      | Northwestern University          | \$2,600             | 2 months          | PT         | :white_check_mark:   | :x:                |
+| [Product Management Course][pm-ga]                                                                 | General Assembly                 | \$3,950             | 1-3 months        | :question: | :x:                  | :x:                |
+| [Product Manager Nanodegree][pm-uda]                                                               | Udacity                          | \$399/mo            | 4 months          | :question: | :white_check_mark:   | :white_check_mark: |
+| [RIT MicroMasters Program in Project Management][pm-rit]                                           | edX                              | \$810               | 8 months          | PT         | :white_check_mark:   | :x:                |
+| [Ultiva Product Management][pm-ult]                                                                | Ultiva                           | ~\$300<sup>\*</sup> | 4 months          | PT         | :white_check_mark:   | :white_check_mark: |
+| [UVA Digital Product Management Specialization][pm-uva]                                            | Coursera                         | \$79/mo             | 3 months          | PT         | :white_check_mark:   | :x:                |
 
 <sup>\* Converted from Nigerian Niara (NGN). May change due to conversion rate.</sup>
 
@@ -572,15 +586,12 @@ According to Glassdoor, the base salary of a product manager is **~\$100,000/yr*
 | Name | Description |
 | ---- | ----------- |
 
-
 ### Bootcamps, Courses & Certifications
 
 | Name | Provider | :dollar: | :clock1: | :date: | :woman_technologist: | :handshake: |
 | ---- | -------- | -------- | -------- | ------ | -------------------- | ----------- |
 
-
 ### Communities
 
 | Name | Platform | Members | Description |
 | ---- | -------- | ------- | ----------- |
-
