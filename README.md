@@ -77,12 +77,12 @@ According to Glassdoor, the base salary for an iOS engineer is **~\$95,000/yr**.
 
 ### Free Resources
 
-| Name                       | Description                                           |
-| -------------------------- | ----------------------------------------------------- |
-| [Ray Wenderlich][rwl-ios]  | Thousands of free in-depth iOS videos and tutorials   |
-| [Fucking SwiftUI][fck-sui] | A curated list of questions and answers about SwiftUI |
-| [StackOverflow][so]        | Every programmer's go-to resource for Q&A             |
-| [Essential iOS][ios-ess]   | Comprehensive free online book for iOS development    |
+| Name                                                 | Description                                           |
+| ---------------------------------------------------- | ----------------------------------------------------- |
+| [Ray Wenderlich][rwl-ios]                            | Thousands of free in-depth iOS videos and tutorials   |
+| [Fucking SwiftUI][fck-sui]                           | A curated list of questions and answers about SwiftUI |
+| [StackOverflow](https://stackoverflow.com/questions) | Every programmer's go-to resource for Q&A             |
+| [Essential iOS][ios-ess]                             | Comprehensive free online book for iOS development    |
 
 [ios-ess]: https://essential-ios.programming-books.io/
 [rwl-ios]: https://www.raywenderlich.com/ios
@@ -100,6 +100,12 @@ According to Glassdoor, the base salary for an iOS engineer is **~\$95,000/yr**.
 | [iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp)      | Udemy              | \$19.99  | :question: | PT     | :white_check_mark:   | :x:                |
 | [LearnQuest Swift 5 iOS Application Developer Specialization](https://www.coursera.org/specializations/swift-5-ios-app-developer) | Coursera           | \$79/mo  | 4 months   | PT     | :white_check_mark:   | :x:                |
 | [UToronto iOS App Development with Swift Specialization](https://www.coursera.org/specializations/app-development)                | Coursera           | \$49/mo  | 5 months   | PT     | :white_check_mark:   | :x:                |
+
+### Communities
+
+| Name                                         | Platform | Members | Description                                              |
+| -------------------------------------------- | -------- | ------- | -------------------------------------------------------- |
+| [iOS Developers](https://ios-developers.io/) | Slack    | 30k+    | Popular Slack community for every kind of iOS developer. |
 
 ## Android Engineer
 
@@ -119,14 +125,14 @@ According to Glassdoor, the base salary for an Android engineer is **~\$95,000/y
 
 ### Free Resources
 
-| Name                                | Description                                                                                          |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Ray Wenderlich][rwl-android]       | Thousands of free in-depth Android videos and tutorials                                              |
-| [Android Developer Docs][and-doc]   | Google's official Android documentation                                                              |
-| [StackOverflow][so]                 | Every programmer's go-to resource for Q&A                                                            |
-| [Essential Android][and-ess]        | Comprehensive free online book for Android development                                               |
-| [Google CodeLabs][and-cl]           | Interactive hands-on tutorials for Android and Google SDKs                                           |
-| [Udacity's Android Courses][and-ud] | Udacity has partnered with Google to provide dozens of high-quality, completely free Android courses |
+| Name                                                 | Description                                                                                          |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [Ray Wenderlich][rwl-android]                        | Thousands of free in-depth Android videos and tutorials                                              |
+| [Android Developer Docs][and-doc]                    | Google's official Android documentation                                                              |
+| [StackOverflow](https://stackoverflow.com/questions) | Every programmer's go-to resource for Q&A                                                            |
+| [Essential Android][and-ess]                         | Comprehensive free online book for Android development                                               |
+| [Google CodeLabs][and-cl]                            | Interactive hands-on tutorials for Android and Google SDKs                                           |
+| [Udacity's Android Courses][and-ud]                  | Udacity has partnered with Google to provide dozens of high-quality, completely free Android courses |
 
 [and-ud]: https://www.udacity.com/courses/all?search=android&type=free%20courses
 [and-cl]: https://codelabs.developers.google.com/?cat=android
@@ -144,6 +150,12 @@ According to Glassdoor, the base salary for an Android engineer is **~\$95,000/y
 [and-nano]: https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
 [and-knano]: https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940
 
+### Communities
+
+| Name                                                | Platform | Members | Description                                                                                                     |
+| --------------------------------------------------- | -------- | ------- | --------------------------------------------------------------------------------------------------------------- |
+| [Android Unitied](http://android-united.community/) | Slack    | 3k+     | Slack community of Android developers sharing experience, knowledge and relevant news about Android and mobile. |
+
 ## Full-Stack Web Developer
 
 ### Overview
@@ -158,23 +170,16 @@ Full-stack web developers:
 
 ### Free Resources
 
-| Name                                              | Description                                                                                              |
-| ------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [freeCodeCamp][fcc]                               | Over 6,000 completely free technical tutorials                                                           |
-| [Entry-Level Front End Engineering Quiz][tri-elf] | Job placement quiz for entry-level frontend engineers (via TripleByte)                                   |
-| [Learn Web Development][web-moz]                  | Mozilla's comprehensive web development guide                                                            |
-| [StackOverflow][so]                               | Every programmer's go-to resource for Q&A                                                                |
-| [ProgrammingBooks][pb]                            | Free online books for (almost) every coding topic                                                        |
-| [JavaScript Style Guide][web-bnb]                 | Airbnb's hyper-popular style guide for JavaScript best practices                                         |
-| [devhints.io][dh]                                 | Massive collection of hand-written cheat sheets for various programming languages, apps, and executables |
-
-[dh]: https://devhints.io/
-[pb]: https://www.programming-books.io/
-[fcc]: https://www.freecodecamp.org/
-[tri-elf]: https://triplebyte.com/users/start?track=frontend_junior
-[web-moz]: https://developer.mozilla.org/en-US/docs/Learn
-[web-bnb]: https://github.com/airbnb/javascript
-[so]: https://stackoverflow.com/questions
+| Name                                                                                               | Description                                                                                              |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [devhints.io](https://devhints.io/)                                                                | Massive collection of hand-written cheat sheets for various programming languages, apps, and executables |
+| [freeCodeCamp](https://www.freecodecamp.org/)                                                      | Over 6,000 completely free technical tutorials                                                           |
+| [Entry-Level Front End Engineering Quiz](https://triplebyte.com/users/start?track=frontend_junior) | Job placement quiz for entry-level frontend engineers (via TripleByte)                                   |
+| [JavaScript Style Guide](https://github.com/airbnb/javascript)                                     | Airbnb's hyper-popular style guide for JavaScript best practices                                         |
+| [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)                            | Mozilla's comprehensive web development guide                                                            |
+| [ProgrammingBooks](https://www.programming-books.io/)                                              | Free online books for (almost) every coding topic                                                        |
+| [Scotch.io](https://scotch.io/)                                                                    | Hundreds of free web development courses and tutorials.                                                  |
+| [StackOverflow](https://stackoverflow.com/questions)                                               | Every programmer's go-to resource for Q&A                                                                |
 
 ### Bootcamps, Courses & Certifications
 
@@ -197,12 +202,14 @@ Full-stack web developers:
 
 ### Communities
 
-| Name                      | Platform | Members    | Description                                                                          |
-| ------------------------- | -------- | ---------- | ------------------------------------------------------------------------------------ |
-| dev.to                    | DEV      | 500k+      | A community site focused on all kinds of programming, but especially web development |
-| [devchat.dev][fs-devchat] | Slack    | :question: | Slack community for all kinds of developers                                          |
-| [r/javascript][fs-rjs]    | Reddit   | 1M+        | All about the JavaScript programming language                                        |
-| [r/webdev][fs-rwb]        | Reddit   | 600k+      | A community dedicated to all things web development                                  |
+| Name                                     | Platform | Members    | Description                                                                          |
+| ---------------------------------------- | -------- | ---------- | ------------------------------------------------------------------------------------ |
+| [BabelJS](https://slack.babeljs.io/)     | Slack    | 9k+        | Slack community for the Babel JavaScript transpiler.                                 |
+| [dev.to](https://dev.to)                 | DEV      | 500k+      | A community site focused on all kinds of programming, but especially web development |
+| [devchat.dev][fs-devchat]                | Slack    | :question: | Slack community for all kinds of developers                                          |
+| [FEDs on Slack](http://fedsonslack.com/) | Slack    | 7k+        | Small, invite-only Slack community of highly qualified front-end developers.         |
+| [r/javascript][fs-rjs]                   | Reddit   | 1M+        | All about the JavaScript programming language                                        |
+| [r/webdev][fs-rwb]                       | Reddit   | 600k+      | A community dedicated to all things web development                                  |
 
 [fs-rwb]: https://www.reddit.com/r/webdev/
 [fs-rjs]: https://www.reddit.com/r/javascript/
@@ -231,7 +238,7 @@ According to Glassdoor, the base salary of a DevOps engineer is **~\$100,000/yr*
 | [A Cloud Guru][ops-cg]               | Freemium DevOps courses covering Linux, Azure, AWS, and Kubernetes                                       |
 | [Linux Academy on YouTube][ops-linx] | Hundreds of DevOps-related tutorials, talks, and more                                                    |
 | [tldr][ops-tldr]                     | Collaborative cheatsheet for console commands                                                            |
-| [devhints.io][dh]                    | Massive collection of hand-written cheat sheets for various programming languages, apps, and executables |
+| [devhints.io](https://devhints.io/)  | Massive collection of hand-written cheat sheets for various programming languages, apps, and executables |
 
 [ops-cg]: https://acloudguru.com/
 [ops-linx]: https://www.youtube.com/c/LinuxAcademycom
@@ -286,8 +293,12 @@ According to Glassdoor, the base salary of a DevOps engineer is **~\$100,000/yr*
 
 ### Communities
 
-| Name | Platform | Members | Description |
-| ---- | -------- | ------- | ----------- |
+| Name                                                                     | Platform | Members    | Description                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------ | -------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [data-scientist/spark-ml](https://data-scientist.github.io/)             | Slack    | :question: | An online Slack team of communication and knowledge management which focus on data science and machine learning by Apache Spark, Python Scikit-Learn, Scala Breeze, R or any other topics on big data domain. |
+| [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/) | Reddit   | 198k+      | Reddit community for learning the ins-and-outs of machine learning.                                                                                                                                           |
+| [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)           | Reddit   | 1.5M+      | General machine learning forum for users to share tutorials, advice, Q&A, and more.                                                                                                                           |
+| [Machine Learning and AI](https://ml-ai.slack.com/)                      | Slack    | :question: | Silverpond's Slack community for ML and AI enthusiasts.                                                                                                                                                       |
 
 ## Data Scientist
 
@@ -340,10 +351,12 @@ According to Glassdoor, data scientists make a base salary of **~\$115,000/yr**.
 
 ### Communities
 
-| Name                                                   | Platform  | Members    | Description                                                             |
-| ------------------------------------------------------ | --------- | ---------- | ----------------------------------------------------------------------- |
-| [DataScience Salon](https://www.datascience.salon/)    | Slack     | 1.5k+      | Private Slack community for every kind of data scientist.               |
-| [DataQuest Community](https://community.dataquest.io/) | Discourse | :question: | Online forum for DataQuest students and data science enthusiasts alike. |
+| Name                                                         | Platform  | Members    | Description                                                                                                                                                                                                   |
+| ------------------------------------------------------------ | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [data-scientist/spark-ml](https://data-scientist.github.io/) | Slack     | :question: | An online Slack team of communication and knowledge management which focus on data science and machine learning by Apache Spark, Python Scikit-Learn, Scala Breeze, R or any other topics on big data domain. |
+| [DataScience Salon](https://www.datascience.salon/)          | Slack     | 1.5k+      | Private Slack community for every kind of data scientist.                                                                                                                                                     |
+| [DataQuest Community](https://community.dataquest.io/)       | Discourse | :question: | Online forum for DataQuest students and data science enthusiasts alike.                                                                                                                                       |
+| [KaggleNoobs](https://kagglenoobs.slack.com/signup#/)        | Slack     | :question: | Slack community for Kaggle users of all levels, as well as data science enthusiasts.                                                                                                                          |
 
 # Design
 
