@@ -1,4 +1,6 @@
-# Awesome Careers [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+![Logo](./assets/cover.png)
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Let's face it: almost everyone hates their job.
 You know that life is too short to be doing something that makes you miserable, but the though of changing careers this late in the game might scare you.
