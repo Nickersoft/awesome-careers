@@ -174,6 +174,7 @@ Full-stack web developers:
 
 | Name                                                                                               | Description                                                                                                       |
 | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [Awesome Stacks](https://awesomestacks.dev/)                                                       | Discover awesome tech stacks for building different applications and features.                                    |
 | [Backend Developer Roadmap](https://roadmap.sh/backend)                                            | Illustrated roadmap of different technologies and tools to learn if you're aiming to become a backend developer.  |
 | [devhints.io](https://devhints.io/)                                                                | Massive collection of hand-written cheat sheets for various programming languages, apps, and executables.         |
 | [Entry-Level Front End Engineering Quiz](https://triplebyte.com/users/start?track=frontend_junior) | Job placement quiz for entry-level frontend engineers (via TripleByte).                                           |
@@ -438,6 +439,18 @@ According to Glassdoor, the base pay for a UX/UI designer is **~\$100,000/yr**.
 
 ### Overview
 
+Motion designers create artwork for the web, television, or film. They use visual effects, animation and other cinematic techniques to bring life to their creations.
+
+Today, motion designers create live video content, graphics, and animation for handheld electronic devices, web programs, video games, and for smartphones and mobile platforms, including apps.
+
+Typically, a motion designer will:
+
+- **Use** modern animation software, such as After Effects and Blender, to produce high-quality animations.
+- **Collaborate** with other teams and clients to determine product requirements and technical limitations.
+- **Assist** in the creation and brainstorming of animation storyboards and layout.
+
+According to Celarity, the average base salary for a motion designer is **~$75,000/yr**.
+
 ### Free & Paid Resources
 
 | Name                           | Description                                                                                                                                                               |
@@ -501,15 +514,29 @@ According to Glassdoor, the base pay for a UX/UI designer is **~\$100,000/yr**.
 
 ### Overview
 
+3D designers create still and moving images using computers, as well as 3D models of products, and manage multiple projects while adhering to deadlines.
+
+Typically, a 3D designer will:
+
+- **Use** modern modeling software such as Blender, Maya, Cinema4D, or 3Ds Max to produce high-quality 3D renderings of products, icons, and more.
+- **Manage** cameras, lighting, and shadows in a three-dimensional space.
+- **Export** designs in a format easily integratable into software products, such as OBJ or USDZ.
+
+According to Glassdoor, the average base pay for a 3D designer is **~$75,000/yr**.
+
 ### Free Resources
 
-| Name                      | Description                                                                                              |
-| ------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [BlenderGuru][3d-bg]      | Dozens of free high-quality, ease-to-follow tutorials and articles for the Blender 3D modeling software  |
-| [3D for Designers][3d-fd] | Dozens of free high-quality, ease-to-follow tutorials for Cinema 4D & Cinema 4D Lite, made for designers |
-
-[3d-bg]: https://www.blenderguru.com/
-[3d-fd]: https://www.3dfordesigners.com/
+| Name                                                | Description                                                                                               |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [3D for Designers](https://www.3dfordesigners.com/) | Dozens of free high-quality, ease-to-follow tutorials for Cinema 4D & Cinema 4D Lite, made for designers. |
+| [3DTotal](https://3dtotal.com/tutorials)            | Free 3D design tutorials.                                                                                 |
+| [BlenderGuru](https://www.blenderguru.com/)         | Dozens of free high-quality, ease-to-follow tutorials and articles for the Blender 3D modeling software.  |
+| [CGTrader](https://www.cgtrader.com/)               | Thousands of free and paid 3D models, plus a job board for freelance designers.                           |
+| [Free3D](https://free3d.com/)                       | Hundreds of free and paid 3D models for every major modeling software.                                    |
+| [GrabCAD](https://grabcad.com/library)              | Millions of free CAD models provided by the community.                                                    |
+| [SketchFab](https://sketchfab.com/)                 | The premium online resource for free and paid 3D models for 3D designers.                                 |
+| [Thingiverse](https://www.thingiverse.com/)         | Thousands of free 3D and CAD resources, provided by the community.                                        |
+| [TurboSquid](https://www.turbosquid.com/)           | Thousands of free and paid 3D models and textures for every major modeling software.                      |
 
 ### Bootcamps, Courses & Certifications
 
@@ -523,8 +550,15 @@ According to Glassdoor, the base pay for a UX/UI designer is **~\$100,000/yr**.
 
 ### Communities
 
-| Name | Platform | Members | Description |
-| ---- | -------- | ------- | ----------- |
+| Name                                               | Platform  | Members    | Description                                                                                                        |
+| -------------------------------------------------- | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------ | --- |
+| [CGTalk](https://forums.cgsociety.org/)            | CGTalk    | :question: | Forum for 3D and game designers to ask questions, showcase their work, and share knowledge.                        |
+| [Polycount Community](https://polycount.com/forum) | Polycount | :question: | Forum for 3D and game designers to ask questions, showcase their work, and share knowledge.                        |
+| [r/3dsmax](https://www.reddit.com/r/3dsmax/)       | Reddit    | 21k+       | Reddit community for all questions, discussions, and showcases regarding the Autodesk 3Ds Max modeling software.   |
+| [r/blender](http://reddit.com/r/blender)           | Reddit    | 321k+      | Reddit community for all questions, discussions, and showcases regarding the Blender modeling software.            |
+| [r/Cinema4D](https://www.reddit.com/r/Cinema4D/)   | Reddit    | 67k+       | Reddit community for all questions, discussions, and showcases regarding the Cinema4D modeling software.           |
+| [r/Maya](https://www.reddit.com/r/maya/)           | Reddit    | 39k+       | Reddit community for all questions, discussions, and showcases regarding the Autodesk Maya modeling software.      |
+| [r/Unity](https://www.reddit.com/r/unity/)         | Reddit    | 22k+       | Reddit community for all questions, discussions, and showcases regarding the Unity Real-Time Development Platform. |     |
 
 # Product & Research
 
