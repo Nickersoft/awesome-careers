@@ -78,16 +78,16 @@ According to Glassdoor, the base salary for an iOS engineer is **~\$95,000/yr**.
 
 ### Free Resources
 
-| Name                                                 | Description                                           |
-| ---------------------------------------------------- | ----------------------------------------------------- |
-| [Ray Wenderlich][rwl-ios]                            | Thousands of free in-depth iOS videos and tutorials   |
-| [Fucking SwiftUI][fck-sui]                           | A curated list of questions and answers about SwiftUI |
-| [StackOverflow](https://stackoverflow.com/questions) | Every programmer's go-to resource for Q&A             |
-| [Essential iOS][ios-ess]                             | Comprehensive free online book for iOS development    |
-
-[ios-ess]: https://essential-ios.programming-books.io/
-[rwl-ios]: https://www.raywenderlich.com/ios
-[fck-sui]: https://fuckingswiftui.com/
+| Name                                                                                         | Description                                                                                                  |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [awesome-ios](https://github.com/vsouza/awesome-ios)                                         | Crowdsourced list of Objective-C and Swift libraries and tools.                                              |
+| [awesome-swift](https://github.com/matteocrippa/awesome-swift)                               | Crowdsourced list of tools, resources, and libraries written in or built for the Swift programming language. |
+| [awesome-swiftui](https://github.com/vlondon/awesome-swiftui)                                | Crowdsourced list of libraries, tutorials, and resources for SwiftUI.                                        |
+| [Essential iOS](https://essential-ios.programming-books.io/)                                 | Comprehensive free online book for iOS development.                                                          |
+| [F\*\*king SwiftUI](https://fuckingswiftui.com/)                                             | A curated list of questions and answers about SwiftUI.                                                       |
+| [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) | Apple's free guide to best UI & UX practices when building Apple products.                                   |
+| [Ray Wenderlich](https://www.raywenderlich.com/ios)                                          | Thousands of free in-depth iOS videos and tutorials.                                                         |
+| [StackOverflow](https://stackoverflow.com/questions)                                         | Every programmer's go-to resource for Q&A.                                                                   |
 
 ### Bootcamps, Courses & Certifications
 
@@ -98,6 +98,7 @@ According to Glassdoor, the base salary for an iOS engineer is **~\$95,000/yr**.
 | [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)          | Udacity            | Free     | 1 month    | PT     | :white_check_mark:   | :x:                |
 | [Intro to iOS Development](https://brainstation.io/course-package/intro-to-ios-development/)                                      | BrainStation       | \$3,250  | 2 months   | PT     | :white_check_mark:   | :x:                |
 | [iOS Developer Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree--nd003)                                        | Udacity            | \$399/mo | 6 months   | PT     | :white_check_mark:   | :white_check_mark: |
+| [iOS for CS Majors](https://codepath.org/classes)                                                                                 | CodePath           | Free     | 6 weeks    | PT     | :x:                  | :x:                |
 | [iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp)      | Udemy              | \$19.99  | :question: | PT     | :white_check_mark:   | :x:                |
 | [LearnQuest Swift 5 iOS Application Developer Specialization](https://www.coursera.org/specializations/swift-5-ios-app-developer) | Coursera           | \$79/mo  | 4 months   | PT     | :white_check_mark:   | :x:                |
 | [UToronto iOS App Development with Swift Specialization](https://www.coursera.org/specializations/app-development)                | Coursera           | \$49/mo  | 5 months   | PT     | :white_check_mark:   | :x:                |
@@ -144,10 +145,11 @@ According to Glassdoor, the base salary for an Android engineer is **~\$95,000/y
 
 ### Bootcamps, Courses & Certifications
 
-| Name                                             | Provider | :dollar: | :clock1: | :date: | :woman_technologist: | :handshake:        |
-| ------------------------------------------------ | -------- | -------- | -------- | ------ | -------------------- | ------------------ |
-| [Android Basics Nanodegree][and-nano]            | Udacity  | \$399/mo | 3 months | PT     | :white_check_mark:   | :white_check_mark: |
-| [Android Kotlin Developer Nanodegree][and-knano] | Udacity  | \$399/mo | 4 months | PT     | :white_check_mark:   | :white_check_mark: |
+| Name                                                  | Provider | :dollar: | :clock1: | :date: | :woman_technologist: | :handshake:        |
+| ----------------------------------------------------- | -------- | -------- | -------- | ------ | -------------------- | ------------------ |
+| [Android Basics Nanodegree][and-nano]                 | Udacity  | \$399/mo | 3 months | PT     | :white_check_mark:   | :white_check_mark: |
+| [Android for CS Majors](https://codepath.org/classes) | CodePath | Free     | 6 weeks  | PT     | :x:                  | :x:                |
+| [Android Kotlin Developer Nanodegree][and-knano]      | Udacity  | \$399/mo | 4 months | PT     | :white_check_mark:   | :white_check_mark: |
 
 [and-nano]: https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
 [and-knano]: https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940
@@ -551,14 +553,14 @@ According to Glassdoor, the average base pay for a 3D designer is **~$75,000/yr*
 ### Communities
 
 | Name                                               | Platform  | Members    | Description                                                                                                        |
-| -------------------------------------------------- | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------ | --- |
+| -------------------------------------------------- | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |
 | [CGTalk](https://forums.cgsociety.org/)            | CGTalk    | :question: | Forum for 3D and game designers to ask questions, showcase their work, and share knowledge.                        |
 | [Polycount Community](https://polycount.com/forum) | Polycount | :question: | Forum for 3D and game designers to ask questions, showcase their work, and share knowledge.                        |
 | [r/3dsmax](https://www.reddit.com/r/3dsmax/)       | Reddit    | 21k+       | Reddit community for all questions, discussions, and showcases regarding the Autodesk 3Ds Max modeling software.   |
 | [r/blender](http://reddit.com/r/blender)           | Reddit    | 321k+      | Reddit community for all questions, discussions, and showcases regarding the Blender modeling software.            |
 | [r/Cinema4D](https://www.reddit.com/r/Cinema4D/)   | Reddit    | 67k+       | Reddit community for all questions, discussions, and showcases regarding the Cinema4D modeling software.           |
 | [r/Maya](https://www.reddit.com/r/maya/)           | Reddit    | 39k+       | Reddit community for all questions, discussions, and showcases regarding the Autodesk Maya modeling software.      |
-| [r/Unity](https://www.reddit.com/r/unity/)         | Reddit    | 22k+       | Reddit community for all questions, discussions, and showcases regarding the Unity Real-Time Development Platform. |     |
+| [r/Unity](https://www.reddit.com/r/unity/)         | Reddit    | 22k+       | Reddit community for all questions, discussions, and showcases regarding the Unity Real-Time Development Platform. |
 
 # Product & Research
 
