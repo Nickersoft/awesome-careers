@@ -53,12 +53,13 @@ What would you like to be?
 >
 > Some free courses and resources you can check out are:
 >
+> - [Coursera: Code Yourself!](https://www.coursera.org/learn/intro-programming)
+> - [Dash by General Assembly](https://dash.generalassemb.ly/)
+> - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 > - [Harvard CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 > - [Khan Academy: Intro to Programming](https://www.khanacademy.org/computing/computer-programming)
 > - [Udacity: What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
 > - [UToronto: Learn to Program](https://www.coursera.org/learn/learn-to-program)
-> - [Coursera: Code Yourself!](https://www.coursera.org/learn/intro-programming)
-> - [Dash by General Assembly](https://dash.generalassemb.ly/)
 
 ## iOS Engineer
 
@@ -125,14 +126,15 @@ According to Glassdoor, the base salary for an Android engineer is **~\$95,000/y
 
 ### Free Resources
 
-| Name                                                 | Description                                                                                          |
-| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Ray Wenderlich][rwl-android]                        | Thousands of free in-depth Android videos and tutorials                                              |
-| [Android Developer Docs][and-doc]                    | Google's official Android documentation                                                              |
-| [StackOverflow](https://stackoverflow.com/questions) | Every programmer's go-to resource for Q&A                                                            |
-| [Essential Android][and-ess]                         | Comprehensive free online book for Android development                                               |
-| [Google CodeLabs][and-cl]                            | Interactive hands-on tutorials for Android and Google SDKs                                           |
-| [Udacity's Android Courses][and-ud]                  | Udacity has partnered with Google to provide dozens of high-quality, completely free Android courses |
+| Name                                                 | Description                                                                                                       |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [Ray Wenderlich][rwl-android]                        | Thousands of free in-depth Android videos and tutorials                                                           |
+| [Android Developer Docs][and-doc]                    | Google's official Android documentation                                                                           |
+| [StackOverflow](https://stackoverflow.com/questions) | Every programmer's go-to resource for Q&A                                                                         |
+| [Essential Android][and-ess]                         | Comprehensive free online book for Android development                                                            |
+| [Google CodeLabs][and-cl]                            | Interactive hands-on tutorials for Android and Google SDKs                                                        |
+| [Udacity's Android Courses][and-ud]                  | Udacity has partnered with Google to provide dozens of high-quality, completely free Android courses              |
+| [Android Roadmap](https://roadmap.sh/android)        | Illustrated roadmap of different technologies and tools to learn if you're aiming to become an Android developer. |
 
 [and-ud]: https://www.udacity.com/courses/all?search=android&type=free%20courses
 [and-cl]: https://codelabs.developers.google.com/?cat=android
@@ -170,16 +172,20 @@ Full-stack web developers:
 
 ### Free Resources
 
-| Name                                                                                               | Description                                                                                              |
-| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [devhints.io](https://devhints.io/)                                                                | Massive collection of hand-written cheat sheets for various programming languages, apps, and executables |
-| [freeCodeCamp](https://www.freecodecamp.org/)                                                      | Over 6,000 completely free technical tutorials                                                           |
-| [Entry-Level Front End Engineering Quiz](https://triplebyte.com/users/start?track=frontend_junior) | Job placement quiz for entry-level frontend engineers (via TripleByte)                                   |
-| [JavaScript Style Guide](https://github.com/airbnb/javascript)                                     | Airbnb's hyper-popular style guide for JavaScript best practices                                         |
-| [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)                            | Mozilla's comprehensive web development guide                                                            |
-| [ProgrammingBooks](https://www.programming-books.io/)                                              | Free online books for (almost) every coding topic                                                        |
-| [Scotch.io](https://scotch.io/)                                                                    | Hundreds of free web development courses and tutorials.                                                  |
-| [StackOverflow](https://stackoverflow.com/questions)                                               | Every programmer's go-to resource for Q&A                                                                |
+| Name                                                                                               | Description                                                                                                       |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [Backend Developer Roadmap](https://roadmap.sh/backend)                                            | Illustrated roadmap of different technologies and tools to learn if you're aiming to become a backend developer.  |
+| [devhints.io](https://devhints.io/)                                                                | Massive collection of hand-written cheat sheets for various programming languages, apps, and executables.         |
+| [Entry-Level Front End Engineering Quiz](https://triplebyte.com/users/start?track=frontend_junior) | Job placement quiz for entry-level frontend engineers (via TripleByte).                                           |
+| [freeCodeCamp](https://www.freecodecamp.org/)                                                      | Over 6,000 completely free technical tutorials.                                                                   |
+| [Frontend Developer Roadmap](https://roadmap.sh/frontend)                                          | Illustrated roadmap of different technologies and tools to learn if you're aiming to become a frontend developer. |
+| [JavaScript Style Guide](https://github.com/airbnb/javascript)                                     | Airbnb's hyper-popular style guide for JavaScript best practices.                                                 |
+| [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)                            | Mozilla's comprehensive web development guide.                                                                    |
+| [ProgrammingBooks](https://www.programming-books.io/)                                              | Free online books for (almost) every coding topic.                                                                |
+| [React Roadmap](https://roadmap.sh/react)                                                          | Illustrated roadmap of different topics to learn if you're aiming to learn React.                                 |
+| [Scotch.io](https://scotch.io/)                                                                    | Hundreds of free web development courses and tutorials.                                                           |
+| [StackOverflow](https://stackoverflow.com/questions)                                               | Every programmer's go-to resource for Q&A.                                                                        |
+| [The Roadmap](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now)                            | YouTube channel featuring a range of technical tutorials, many of which touch on web-related topics.              |
 
 ### Bootcamps, Courses & Certifications
 
@@ -233,16 +239,14 @@ According to Glassdoor, the base salary of a DevOps engineer is **~\$100,000/yr*
 
 ### Free Resources
 
-| Name                                 | Description                                                                                              |
-| ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| [A Cloud Guru][ops-cg]               | Freemium DevOps courses covering Linux, Azure, AWS, and Kubernetes                                       |
-| [Linux Academy on YouTube][ops-linx] | Hundreds of DevOps-related tutorials, talks, and more                                                    |
-| [tldr][ops-tldr]                     | Collaborative cheatsheet for console commands                                                            |
-| [devhints.io](https://devhints.io/)  | Massive collection of hand-written cheat sheets for various programming languages, apps, and executables |
-
-[ops-cg]: https://acloudguru.com/
-[ops-linx]: https://www.youtube.com/c/LinuxAcademycom
-[ops-tldr]: https://github.com/tldr-pages/tldr
+| Name                                                                    | Description                                                                                                      |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [A Cloud Guru](https://acloudguru.com/)                                 | Freemium DevOps courses covering Linux, Azure, AWS, and Kubernetes                                               |
+| [devhints.io](https://devhints.io/)                                     | Massive collection of hand-written cheat sheets for various programming languages, apps, and executables         |
+| [DevOps Roadmap](https://roadmap.sh/devops)                             | Illustrated roadmap of different technologies and tools to learn if you're aiming to become a backend developer. |
+| [Linux Academy on YouTube](https://www.youtube.com/c/LinuxAcademycom)   | Hundreds of DevOps-related tutorials, talks, and more                                                            |
+| [The Roadmap](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now) | YouTube channel featuring a range of technical tutorials, many of which touch on DevOps-related topics.          |
+| [tldr](https://github.com/tldr-pages/tldr)                              | Collaborative cheatsheet for console commands                                                                    |
 
 ### Bootcamps, Courses & Certifications
 
