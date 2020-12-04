@@ -86,6 +86,7 @@ According to Glassdoor, the base salary for an iOS engineer is **~\$95,000/yr**.
 | [Essential iOS](https://essential-ios.programming-books.io/)                                 | Comprehensive free online book for iOS development.                                                          |
 | [F\*\*king SwiftUI](https://fuckingswiftui.com/)                                             | A curated list of questions and answers about SwiftUI.                                                       |
 | [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) | Apple's free guide to best UI & UX practices when building Apple products.                                   |
+| [Kavsoft](https://kavsoft.dev/)                                                              | Free online SwiftUI tutorials.                                                                               |
 | [Ray Wenderlich](https://www.raywenderlich.com/ios)                                          | Thousands of free in-depth iOS videos and tutorials.                                                         |
 | [StackOverflow](https://stackoverflow.com/questions)                                         | Every programmer's go-to resource for Q&A.                                                                   |
 
@@ -389,6 +390,7 @@ According to Glassdoor, the base pay for a UX/UI designer is **~\$100,000/yr**.
 | Name                                                        | Description                                                                                                                                               |
 | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [awesome-ux](https://github.com/netoguimaraes/awesome-ux)   | Crowd-sourced collection of helpful tools, books, resources and more for UX designers.                                                                    |
+| [Color Designer](https://colordesigner.io/tools)            | Free online tools for generating color palettes, gradients, and more.                                                                                     |
 | [Femke van Schoonhoven](https://www.youtube.com/c/femkesvs) | Femke van Schoonhoven is a Canadian designer who publishes helpful hints, hacks, and tutorials about breaking into design on her popular YouTube channel. |
 | [Mobbin](https://mobbin.design/)                            | Free collection of hundreds of mobile UI and UX design patterns to use as inspiration and research.                                                       |
 | [Refactoring UI](https://refactoringui.com/)                | Designed for developers, this clean-cut guide provides a collection of rules and guidelines to design visually attractive UIs.                            |
