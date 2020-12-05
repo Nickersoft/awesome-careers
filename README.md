@@ -179,6 +179,7 @@ Full-stack web developers:
 | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | [Awesome Stacks](https://awesomestacks.dev/)                                                       | Discover awesome tech stacks for building different applications and features.                                    |
 | [Backend Developer Roadmap](https://roadmap.sh/backend)                                            | Illustrated roadmap of different technologies and tools to learn if you're aiming to become a backend developer.  |
+| [CSS-Tricks](https://css-tricks.com/)                                                              | Hundreds of easy-to-follow tutorials, guides, and walkthroughs for CSS, JavaScript, and HTML.                     |
 | [devhints.io](https://devhints.io/)                                                                | Massive collection of hand-written cheat sheets for various programming languages, apps, and executables.         |
 | [Entry-Level Front End Engineering Quiz](https://triplebyte.com/users/start?track=frontend_junior) | Job placement quiz for entry-level frontend engineers (via TripleByte).                                           |
 | [freeCodeCamp](https://www.freecodecamp.org/)                                                      | Over 6,000 completely free technical tutorials.                                                                   |
