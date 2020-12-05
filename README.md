@@ -38,7 +38,6 @@ What would you like to be?
   - **[:orange_circle: 3D Designer](#3d-designer)**
 - **[Product & Research](#product--design)**
   - **[:package: Product Manager](#product-manager)**
-  - **[:man_technologist: UX Researcher](#ux-researcher)**
 
 ---
 
