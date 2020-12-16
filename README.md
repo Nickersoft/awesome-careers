@@ -277,12 +277,25 @@ According to Glassdoor, the base salary of a DevOps engineer is **~\$100,000/yr*
 
 ## Machine Learning Engineer
 
+Machine learning engineers combine an in-depth knowledge of mathematics, statistics, and engineering to implement programs that
+allow computers to learn completely autonomously or with little user input. An extremely young field, machine learning engineers are
+responsibile for some of the latest trends in tech, including self-driving vehicles, voice assistants, recommendation systems, and more.
+
+Typically, machine learning engineers:
+
+- **Use** an expert understanding of mathematics and code to deliver the most optimal systems
+- **Code** using an array of cutting-edge frameworks such as PyTorch and Tensorflow
+- **Deploy** machine learning models in production using highly optimized pipelines
+
+According to Indeed, the base salary of a machine learning engineer is **~\$145,000/yr**.
+
 ### Overview
 
 ### Free Resources
 
-| Name | Description |
-| ---- | ----------- |
+| Name                              | Description                                                            |
+| --------------------------------- | ---------------------------------------------------------------------- |
+| [Kaggle](https://www.kaggle.com/) | Hundreds of free-to-use public datasets and data science competitions. |
 
 ### Bootcamps, Courses & Certifications
 
@@ -390,6 +403,7 @@ According to Glassdoor, the base pay for a UX/UI designer is **~\$100,000/yr**.
 | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [awesome-ux](https://github.com/netoguimaraes/awesome-ux)   | Crowd-sourced collection of helpful tools, books, resources and more for UX designers.                                                                    |
 | [Color Designer](https://colordesigner.io/tools)            | Free online tools for generating color palettes, gradients, and more.                                                                                     |
+| [Designed](https://www.designed.org/)                       | A non-profit career growth platform focused on providing equal-access to educational resources and mentors for designers across the world.                |
 | [Femke van Schoonhoven](https://www.youtube.com/c/femkesvs) | Femke van Schoonhoven is a Canadian designer who publishes helpful hints, hacks, and tutorials about breaking into design on her popular YouTube channel. |
 | [HackDesign](https://hackdesign.org/)                       | Dozens of free lessons and resources for everything from web to 3D design.                                                                                |
 | [Mobbin](https://mobbin.design/)                            | Free collection of hundreds of mobile UI and UX design patterns to use as inspiration and research.                                                       |
