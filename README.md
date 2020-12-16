@@ -436,24 +436,32 @@ According to Glassdoor, the base pay for a UX/UI designer is **~\$100,000/yr**.
 | [UX Designer Nanodegree](https://www.udacity.com/course/ux-designer-nanodegree--nd578)                                        | Udacity          | \$399/mo    | 3 months    | PT     | :white_check_mark:   | :white_check_mark: |
 | [Visual Design Course](https://generalassemb.ly/education/visual-design/)                                                     | General Assembly | \$2,800     | 1-2 months  | PT     | :x:                  | :x:                |
 
+### Books
+
+| Title                                                                                                                                                     | Author                                       | Rating |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------ |
+| [100 Things Every Designer Needs to Know About People](https://www.goodreads.com/book/show/10778139-100-things-every-designer-needs-to-know-about-people) | Susan M. Weinschenk                          | 4.1    |
+| [A Designer's Art](https://www.goodreads.com/book/show/163436.Paul_Rand)                                                                                  | Paul Rand                                    | 4.3    |
+| [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)                                                    | Donald A. Norman                             | 4.2    |
+| [Don't Make Me Think, Revisited](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)                                              | Steve Krug                                   | 4.3    |
+| [Hooked: How To Build Habit-Forming Products](https://www.goodreads.com/book/show/22668729-hooked)                                                        | Nir Eyal                                     | 4      |
+| [Layout Essentials](https://www.goodreads.com/book/show/6313652-layout-essentials)                                                                        | Beth Tondreau                                | 4      |
+| [Refactoring UI](https://www.goodreads.com/book/show/43190966-refactoring-ui)                                                                             | Adam Wathan, Steve Schoger                   | 4.7    |
+| [Universal Principles of Design](https://www.goodreads.com/book/show/130730.Universal_Principles_of_Design)                                               | William Lidwell, Jill Butler, Kritina Holden | 4.2    |
+
 ### Communities
 
-| Name                                | Platform           | Members    | Description                                                                                                       |
-| ----------------------------------- | ------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------- |
-| [Behance](https://www.behance.net/) | Behance            | 10M+       | Adobe's web platform where designers can network and showcase their portfolio.                                    |
-| [Dribbble][ui-drb]                  | Dribbble           | 3.5M+      | The insanely popular web platform where designers showcase their work, ask for feedback, look for jobs, and more. |
-| [Designer Hangout][ui-dh]           | Slack              | :question: | Invite-only network for UX designers looking to talk shop and advance their careers.                              |
-| [Designer News][ui-dn]              | Designer News Ltd. | :question: | HackerNews for designers.                                                                                         |
-| [Designer Slack][ui-ds]             | Slack              | Mixed      | Online directory of almost every design-focused Slack community out there.                                        |
-| [ProductTribes][ui-pt]              | Slack              | 10k+       | UX Pin's Slack community for designers, developers, and PMs alike.                                                |
-| [r/uxdesign][ui-xd]                 | Reddit             | 39k+       | Reddit community for every kind of UX designer.                                                                   |
-
-[ui-pt]: http://www.product-tribes.com/
-[ui-xd]: https://www.reddit.com/r/UXDesign/
-[ui-dn]: https://www.designernews.co/
-[ui-ds]: https://www.designerslack.community/
-[ui-dh]: https://designerhangout.co/
-[ui-drb]: https://dribbble.com/
+| Name                                                   | Platform           | Members    | Description                                                                                                                                         |
+| ------------------------------------------------------ | ------------------ | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Behance](https://www.behance.net/)                    | Behance            | 10M+       | Adobe's web platform where designers can network and showcase their portfolio.                                                                      |
+| [Dribbble](https://dribbble.com/)                      | Dribbble           | 3.5M+      | The insanely popular web platform where designers showcase their work, ask for feedback, look for jobs, and more.                                   |
+| [Designer Hangout](https://designerhangout.co/)        | Slack              | :question: | Invite-only network for UX designers looking to talk shop and advance their careers.                                                                |
+| [Designer News](https://www.designernews.co/)          | Designer News Ltd. | :question: | HackerNews for designers.                                                                                                                           |
+| [Designer Slack](https://www.designerslack.community/) | Slack              | Mixed      | Online directory of almost every design-focused Slack community out there.                                                                          |
+| [Hexagon UX](http://hexagonux.com/)                    | Slack              | 7k+        | A non-profit design organization focused on women and non-binary individuals in the UX industry.                                                    |
+| [ProductTribes](http://www.product-tribes.com/)        | Slack              | 10k+       | UX Pin's Slack community for designers, developers, and PMs alike.                                                                                  |
+| [Rethink](https://www.rethinkhq.com/)                  | N/A                | :question: | A design community dedicated to help experienced product design professionals navigate growth, ambiguity, and change and succeed as design leaders. |
+| [r/uxdesign](https://www.reddit.com/r/UXDesign/)       | Reddit             | 39k+       | Reddit community for every kind of UX designer.                                                                                                     |
 
 ## Motion Designer
 
@@ -633,6 +641,14 @@ According to Glassdoor, the base salary of a product manager is **~\$100,000/yr*
 [pm-pd]: https://productdive.com/
 [pm-ult]: https://utiva.io/product-management
 [pm-pmc]: https://productschool.com/product-management-certification/
+
+### Books
+
+| Title                                                                                                             | Author                  | Rating |
+| ----------------------------------------------------------------------------------------------------------------- | ----------------------- | ------ |
+| [Cracking the PM Interview](https://www.goodreads.com/book/show/19243347-cracking-the-pm-interview)               | Gayle Laakmann McDowell | 4.2    |
+| [Hooked: How To Build Habit-Forming Products](https://www.goodreads.com/book/show/22668729-hooked)                | Nir Eyal                | 4      |
+| [Principles of Product Management](https://www.goodreads.com/book/show/50246003-principles-of-product-management) | Peter Yang              | 4.2    |
 
 ### Communities
 
