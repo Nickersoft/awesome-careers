@@ -75,17 +75,17 @@ According to Glassdoor, the base salary for an iOS engineer is **~\$95,000/yr**.
 
 ### Free Resources
 
-| Name                                                                                         | Description                                                                                                  |
-| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [awesome-ios](https://github.com/vsouza/awesome-ios)                                         | Crowdsourced list of Objective-C and Swift libraries and tools.                                              |
-| [awesome-swift](https://github.com/matteocrippa/awesome-swift)                               | Crowdsourced list of tools, resources, and libraries written in or built for the Swift programming language. |
-| [awesome-swiftui](https://github.com/vlondon/awesome-swiftui)                                | Crowdsourced list of libraries, tutorials, and resources for SwiftUI.                                        |
-| [Essential iOS](https://essential-ios.programming-books.io/)                                 | Comprehensive free online book for iOS development.                                                          |
-| [F\*\*king SwiftUI](https://fuckingswiftui.com/)                                             | A curated list of questions and answers about SwiftUI.                                                       |
-| [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) | Apple's free guide to best UI & UX practices when building Apple products.                                   |
-| [Kavsoft](https://kavsoft.dev/)                                                              | Free online SwiftUI tutorials.                                                                               |
-| [Ray Wenderlich](https://www.raywenderlich.com/ios)                                          | Thousands of free in-depth iOS videos and tutorials.                                                         |
-| [StackOverflow](https://stackoverflow.com/questions)                                         | Every programmer's go-to resource for Q&A.                                                                   |
+| Name                                                                                         | Description                                                                                                   |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [awesome-ios](https://github.com/vsouza/awesome-ios)                                         | Crowd-sourced list of Objective-C and Swift libraries and tools.                                              |
+| [awesome-swift](https://github.com/matteocrippa/awesome-swift)                               | Crowd-sourced list of tools, resources, and libraries written in or built for the Swift programming language. |
+| [awesome-swiftui](https://github.com/vlondon/awesome-swiftui)                                | Crowd-sourced list of libraries, tutorials, and resources for SwiftUI.                                        |
+| [Essential iOS](https://essential-ios.programming-books.io/)                                 | Comprehensive free online book for iOS development.                                                           |
+| [F\*\*king SwiftUI](https://fuckingswiftui.com/)                                             | A curated list of questions and answers about SwiftUI.                                                        |
+| [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) | Apple's free guide to best UI & UX practices when building Apple products.                                    |
+| [Kavsoft](https://kavsoft.dev/)                                                              | Free online SwiftUI tutorials.                                                                                |
+| [Ray Wenderlich](https://www.raywenderlich.com/ios)                                          | Thousands of free in-depth iOS videos and tutorials.                                                          |
+| [StackOverflow](https://stackoverflow.com/questions)                                         | Every programmer's go-to resource for Q&A.                                                                    |
 
 ### Bootcamps, Courses & Certifications
 
@@ -481,52 +481,31 @@ According to Celarity, the average base salary for a motion designer is **~$75,0
 
 ### Free & Paid Resources
 
-| Name                           | Description                                                                                                                                                               |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [AEUX][md-aeux]                | Google's free plugin for Figma, XD & Sketch for importing designs directly into After Effects.                                                                            |
-| [Animography][md-anim]         | Animated premium typefaces for After Effects.                                                                                                                             |
-| [Bodymovin][md-bm]             | Airbnb's free After Effects to [Lottie][md-lot] exporter.                                                                                                                 |
-| [LottieFiles][md-lf]           | Thousands of free and premium [Lottie][md-lot] animations, easily importable to After Effects via the [Bodymovin][md-bm] plugin.                                          |
-| [Motion Design School][md-mds] | Hundreds of paid motion design courses and masterclasses. MDS also posts **free** After Effects tips-and-tricks, tutorials, and more on their [YouTube Channel][md-mdsy]. |
-| [MoGraph Mentor][md-mog]       | Hundreds of free and paid courses for motion designers, ranging from beginner to advanced.                                                                                |
-| [Mr. Horse][md-mrh]            | A collection of paid and free animation plugins for After Effects. Home of the popular free [Animation Composer](https://misterhorse.com/animation-composer) plugin.      |
-
-[md-mog]: https://www.mographmentor.com/
-[md-som]: https://www.schoolofmotion.com/courses
-[md-lot]: https://airbnb.io/lottie/
-[md-mds]: https://motiondesign.school/
-[md-mdsy]: https://www.youtube.com/channel/UC-L0yvYPpGQZD3PHDLKiUpg
-[md-lf]: https://lottiefiles.com/
-[md-bm]: https://exchange.adobe.com/creativecloud.details.12557.bodymovin.html
-[md-mrh]: https://misterhorse.com/
-[md-anim]: https://animography.net/
-[md-aeux]: https://aeux.io/
+| Name                                                                               | Description                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [AEUX](https://aeux.io/)                                                           | Google's free plugin for Figma, XD & Sketch for importing designs directly into After Effects.                                                                                                                             |
+| [Animography](https://animography.net/)                                            | Animated premium typefaces for After Effects.                                                                                                                                                                              |
+| [Bodymovin](https://exchange.adobe.com/creativecloud.details.12557.bodymovin.html) | Airbnb's free After Effects to [Lottie](https://airbnb.io/lottie/) exporter.                                                                                                                                               |
+| [LottieFiles](https://lottiefiles.com/)                                            | Thousands of free and premium [Lottie](https://airbnb.io/lottie/) animations, easily importable to After Effects via the [Bodymovin](https://exchange.adobe.com/creativecloud.details.12557.bodymovin.html) plugin.        |
+| [Motion Design School](https://motiondesign.school/)                               | Hundreds of paid motion design courses and masterclasses. MDS also posts **free** After Effects tips-and-tricks, tutorials, and more on their [YouTube Channel](https://www.youtube.com/channel/UC-L0yvYPpGQZD3PHDLKiUpg). |
+| [MoGraph Mentor](https://www.mographmentor.com/)                                   | Hundreds of free and paid courses for motion designers, ranging from beginner to advanced.                                                                                                                                 |
+| [Mr. Horse](https://misterhorse.com/)                                              | A collection of paid and free animation plugins for After Effects. Home of the popular free [Animation Composer](https://misterhorse.com/animation-composer) plugin.                                                       |
+| [useAnimations](https://useanimations.com/)                                        | Open-source collection of animated Lottie icons, available in [Lottie](https://airbnb.io/lottie/) JSON and as React components.                                                                                            |
 
 ### Bootcamps, Courses & Certifications
 
-| Name                                       | Provider         | :dollar: | :clock1: | :date: | :woman_technologist: | :handshake: |
-| ------------------------------------------ | ---------------- | -------- | -------- | ------ | -------------------- | ----------- |
-| [Advanced After Effects CC][md-aea]        | Adobe Bootcamp   | \$1,195  | 2 days   | PT     | :white_check_mark:   | :x:         |
-| [Advanced Motion Methods][md-amm]          | School of Motion | \$314/mo | 3 hours  | PT     | :white_check_mark:   | :x:         |
-| [After Effects Kickstart][md-aek]          | School of Motion | \$370/mo | 2 months | PT     | :white_check_mark:   | :x:         |
-| [Animation Bootcamp][md-ab]                | School of Motion | \$349/mo | 3 months | PT     | :white_check_mark:   | :x:         |
-| [Character Animation Bootcamp][md-cab]     | School of Motion | \$315/mo | 3 months | PT     | :white_check_mark:   | :x:         |
-| [Intermediate After Effects CC][md-aei]    | Adobe Bootcamp   | \$1,495  | 2 days   | PT     | :white_check_mark:   | :x:         |
-| [Introduction to After Effects CC][md-aen] | Adobe Bootcamp   | \$1,495  | 3 days   | PT     | :white_check_mark:   | :x:         |
-| [Illustration for Motion][md-ifm]          | School of Motion | \$349/mo | 3 months | PT     | :white_check_mark:   | :x:         |
-| [Motion Design 101][md-101]                | MoGraph Mentor   | Free     | 3 hours  | PT     | :white_check_mark:   | :x:         |
-| [The Path to MoGraph][md-ptm]              | School of Motion | Free     | 10 days  | PT     | :white_check_mark:   | :x:         |
-
-[md-aen]: https://adobe-bootcamp.com/intro-ae/
-[md-aei]: https://adobe-bootcamp.com/inter-ae/
-[md-aea]: https://adobe-bootcamp.com/adv-ae/
-[md-cab]: https://www.schoolofmotion.com/character-animation-bootcamp
-[md-amm]: https://www.schoolofmotion.com/advanced-motion-methods
-[md-ptm]: https://www.schoolofmotion.com/the-path-to-mograph
-[md-ab]: https://www.schoolofmotion.com/animation-bootcamp
-[md-aek]: https://www.schoolofmotion.com/after-effects-kickstart
-[md-ifm]: https://www.schoolofmotion.com/illustration-for-motion
-[md-101]: https://www.mographmentor.com/workshops/motion-design-101-michael-jones/
+| Name                                                                                          | Provider         | :dollar: | :clock1: | :date: | :woman_technologist: | :handshake: |
+| --------------------------------------------------------------------------------------------- | ---------------- | -------- | -------- | ------ | -------------------- | ----------- |
+| [Advanced After Effects CC](https://adobe-bootcamp.com/adv-ae/)                               | Adobe Bootcamp   | \$1,195  | 2 days   | PT     | :white_check_mark:   | :x:         |
+| [Advanced Motion Methods](https://www.schoolofmotion.com/advanced-motion-methods)             | School of Motion | \$314/mo | 3 hours  | PT     | :white_check_mark:   | :x:         |
+| [After Effects Kickstart](https://www.schoolofmotion.com/after-effects-kickstart)             | School of Motion | \$370/mo | 2 months | PT     | :white_check_mark:   | :x:         |
+| [Animation Bootcamp](https://www.schoolofmotion.com/animation-bootcamp)                       | School of Motion | \$349/mo | 3 months | PT     | :white_check_mark:   | :x:         |
+| [Character Animation Bootcamp](https://www.schoolofmotion.com/character-animation-bootcamp)   | School of Motion | \$315/mo | 3 months | PT     | :white_check_mark:   | :x:         |
+| [Intermediate After Effects CC](https://adobe-bootcamp.com/inter-ae/)                         | Adobe Bootcamp   | \$1,495  | 2 days   | PT     | :white_check_mark:   | :x:         |
+| [Introduction to After Effects CC](https://adobe-bootcamp.com/intro-ae/)                      | Adobe Bootcamp   | \$1,495  | 3 days   | PT     | :white_check_mark:   | :x:         |
+| [Illustration for Motion](https://www.schoolofmotion.com/illustration-for-motion)             | School of Motion | \$349/mo | 3 months | PT     | :white_check_mark:   | :x:         |
+| [Motion Design 101](https://www.mographmentor.com/workshops/motion-design-101-michael-jones/) | MoGraph Mentor   | Free     | 3 hours  | PT     | :white_check_mark:   | :x:         |
+| [The Path to MoGraph](https://www.schoolofmotion.com/the-path-to-mograph)                     | School of Motion | Free     | 10 days  | PT     | :white_check_mark:   | :x:         |
 
 ### Communities
 
