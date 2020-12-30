@@ -34,9 +34,11 @@ What would you like to be?
   - **[:chart_with_upwards_trend: Data Scientist](#data-scientist)**
 - **[Design](#design)**
   - **[:art: UI/UX Designer](#uxui-designer)**
-  - **[:runner: Motion Designer](#motion-designer)**
+  - **[:rocket: Motion Designer](#motion-designer)**
   - **[:orange_circle: 3D Designer](#3d-designer)**
-- **[Product & Research](#product--design)**
+- **[Business](#business)**
+  - **[:earth_americas: Digital Marketer](#digital-marketer)**
+  - **[:woman_office_worker: Entrepreneur](#digital-marketer)**
   - **[:package: Product Manager](#product-manager)**
 
 ---
@@ -438,16 +440,17 @@ According to Glassdoor, the base pay for a UX/UI designer is **~\$100,000/yr**.
 
 ### Books
 
-| Title                                                                                                                                                     | Author                                       | Rating |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------ |
-| [100 Things Every Designer Needs to Know About People](https://www.goodreads.com/book/show/10778139-100-things-every-designer-needs-to-know-about-people) | Susan M. Weinschenk                          | 4.1    |
-| [A Designer's Art](https://www.goodreads.com/book/show/163436.Paul_Rand)                                                                                  | Paul Rand                                    | 4.3    |
-| [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)                                                    | Donald A. Norman                             | 4.2    |
-| [Don't Make Me Think, Revisited](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)                                              | Steve Krug                                   | 4.3    |
-| [Hooked: How To Build Habit-Forming Products](https://www.goodreads.com/book/show/22668729-hooked)                                                        | Nir Eyal                                     | 4      |
-| [Layout Essentials](https://www.goodreads.com/book/show/6313652-layout-essentials)                                                                        | Beth Tondreau                                | 4      |
-| [Refactoring UI](https://www.goodreads.com/book/show/43190966-refactoring-ui)                                                                             | Adam Wathan, Steve Schoger                   | 4.7    |
-| [Universal Principles of Design](https://www.goodreads.com/book/show/130730.Universal_Principles_of_Design)                                               | William Lidwell, Jill Butler, Kritina Holden | 4.2    |
+| Title                                                                                                                                                       | Author                                       | Rating                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------ |
+| [100 Things Every Designer Needs to Know About People](https://www.goodreads.com/book/show/10778139-100-things-every-designer-needs-to-know-about-people)   | Susan M. Weinschenk                          | :star::star::star::star:       |
+| [A Designer's Art](https://www.goodreads.com/book/show/163436.Paul_Rand)                                                                                    | Paul Rand                                    | :star::star::star::star:       |
+| [Breaking In: Over 100 Product Designers Reveal How to Build a Portfolio That Will Get You Hired](https://www.goodreads.com/book/show/22145707-breaking-in) | Amina Horozic                                | :star::star::star::star:       |
+| [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)                                                      | Donald A. Norman                             | :star::star::star::star:       |
+| [Don't Make Me Think, Revisited](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)                                                | Steve Krug                                   | :star::star::star::star:       |
+| [Hooked: How To Build Habit-Forming Products](https://www.goodreads.com/book/show/22668729-hooked)                                                          | Nir Eyal                                     | :star::star::star::star:       |
+| [Layout Essentials](https://www.goodreads.com/book/show/6313652-layout-essentials)                                                                          | Beth Tondreau                                | :star::star::star::star:       |
+| [Refactoring UI](https://www.goodreads.com/book/show/43190966-refactoring-ui)                                                                               | Adam Wathan, Steve Schoger                   | :star::star::star::star::star: |
+| [Universal Principles of Design](https://www.goodreads.com/book/show/130730.Universal_Principles_of_Design)                                                 | William Lidwell, Jill Butler, Kritina Holden | :star::star::star::star:       |
 
 ### Communities
 
@@ -567,7 +570,18 @@ According to Glassdoor, the average base pay for a 3D designer is **~$75,000/yr*
 | [r/Maya](https://www.reddit.com/r/maya/)           | Reddit    | 39k+       | Reddit community for all questions, discussions, and showcases regarding the Autodesk Maya modeling software.      |
 | [r/Unity](https://www.reddit.com/r/unity/)         | Reddit    | 22k+       | Reddit community for all questions, discussions, and showcases regarding the Unity Real-Time Development Platform. |
 
-# Product & Research
+# Business
+
+## Digital Marketer
+
+### Bootcamps, Courses, and Certifications
+
+| Name                                                                                                          | Provider         | :dollar:   | :clock1: | :date: | :woman_technologist: | :handshake:        |
+| ------------------------------------------------------------------------------------------------------------- | ---------------- | ---------- | -------- | ------ | -------------------- | ------------------ |
+| [Berkeley Digital Marketing Bootcamp](https://bootcamp.berkeley.edu/digitalmarketing/)                        | UC Berkeley      | :question: | 18 weeks | PT     | :white_check_mark:   | :x:                |
+| [Digital Marketing Course](https://generalassemb.ly/education/digital-marketing/san-francisco)                | General Assembly | \$3,950    | 3 months | PT     | :x:                  | :white_check_mark: |
+| [Digital Marketing Nanodegree](https://www.udacity.com/course/digital-marketing-nanodegree--nd018)            | Udacity          | \$399/mo   | 3 months | PT     | :white_check_mark:   | :x:                |
+| [The Facebook Digital Marketing Certificate by USD](https://www.pathstream.com/pages/continuing_usd_facebook) | Pathstream       | \$2,159    | 4 months | PT     | :white_check_mark:   | :x:                |
 
 ## Product Manager
 
@@ -623,11 +637,11 @@ According to Glassdoor, the base salary of a product manager is **~\$100,000/yr*
 
 ### Books
 
-| Title                                                                                                             | Author                  | Rating |
-| ----------------------------------------------------------------------------------------------------------------- | ----------------------- | ------ |
-| [Cracking the PM Interview](https://www.goodreads.com/book/show/19243347-cracking-the-pm-interview)               | Gayle Laakmann McDowell | 4.2    |
-| [Hooked: How To Build Habit-Forming Products](https://www.goodreads.com/book/show/22668729-hooked)                | Nir Eyal                | 4      |
-| [Principles of Product Management](https://www.goodreads.com/book/show/50246003-principles-of-product-management) | Peter Yang              | 4.2    |
+| Title                                                                                                             | Author                  | Rating                   |
+| ----------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------ |
+| [Cracking the PM Interview](https://www.goodreads.com/book/show/19243347-cracking-the-pm-interview)               | Gayle Laakmann McDowell | :star::star::star::star: |
+| [Hooked: How To Build Habit-Forming Products](https://www.goodreads.com/book/show/22668729-hooked)                | Nir Eyal                | :star::star::star::star: |
+| [Principles of Product Management](https://www.goodreads.com/book/show/50246003-principles-of-product-management) | Peter Yang              | :star::star::star::star: |
 
 ### Communities
 
