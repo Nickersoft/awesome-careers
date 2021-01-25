@@ -401,20 +401,21 @@ According to Glassdoor, the base pay for a UX/UI designer is **~\$100,000/yr**.
 
 ### Free Resources & Tools
 
-| Name                                                        | Description                                                                                                                                               |
-| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [awesome-ux](https://github.com/netoguimaraes/awesome-ux)   | Crowd-sourced collection of helpful tools, books, resources and more for UX designers.                                                                    |
-| [Color Designer](https://colordesigner.io/tools)            | Free online tools for generating color palettes, gradients, and more.                                                                                     |
-| [Designed](https://www.designed.org/)                       | A non-profit career growth platform focused on providing equal-access to educational resources and mentors for designers across the world.                |
-| [Femke van Schoonhoven](https://www.youtube.com/c/femkesvs) | Femke van Schoonhoven is a Canadian designer who publishes helpful hints, hacks, and tutorials about breaking into design on her popular YouTube channel. |
-| [HackDesign](https://hackdesign.org/)                       | Dozens of free lessons and resources for everything from web to 3D design.                                                                                |
-| [Mobbin](https://mobbin.design/)                            | Free collection of hundreds of mobile UI and UX design patterns to use as inspiration and research.                                                       |
-| [Refactoring UI](https://refactoringui.com/)                | Designed for developers, this clean-cut guide provides a collection of rules and guidelines to design visually attractive UIs.                            |
-| [Type Scale](https://type-scale.com/)                       | A visual calculator for building typographic hierarchy.                                                                                                   |
-| [UXArchive](https://uxarchive.com/)                         | Automatically generated database of hundreds of UX flows across dozens of mobile apps.                                                                    |
-| [UXPlanet](https://uxplanet.org/)                           | One-stop resource for everything related to user experience.                                                                                              |
-| [UX Collective](https://uxdesign.cc/)                       | Blog discussing all aspects of UX design.                                                                                                                 |
-| [UX Stack Exchange](https://ux.stackexchange.com/)          | StackOverflow for UX designers.                                                                                                                           |
+| Name                                                                           | Description                                                                                                                                               |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [awesome-ux](https://github.com/netoguimaraes/awesome-ux)                      | Crowd-sourced collection of helpful tools, books, resources and more for UX designers.                                                                    |
+| [Color Designer](https://colordesigner.io/tools)                               | Free online tools for generating color palettes, gradients, and more.                                                                                     |
+| [Designed](https://www.designed.org/)                                          | A non-profit career growth platform focused on providing equal-access to educational resources and mentors for designers across the world.                |
+| [Femke van Schoonhoven](https://www.youtube.com/c/femkesvs)                    | Femke van Schoonhoven is a Canadian designer who publishes helpful hints, hacks, and tutorials about breaking into design on her popular YouTube channel. |
+| [HackDesign](https://hackdesign.org/)                                          | Dozens of free lessons and resources for everything from web to 3D design.                                                                                |
+| [Mobbin](https://mobbin.design/)                                               | Free collection of hundreds of mobile UI and UX design patterns to use as inspiration and research.                                                       |
+| [Refactoring UI](https://refactoringui.com/)                                   | Designed for developers, this clean-cut guide provides a collection of rules and guidelines to design visually attractive UIs.                            |
+| [Type Scale](https://type-scale.com/)                                          | A visual calculator for building typographic hierarchy.                                                                                                   |
+| [UI/UX Design Resources](https://www.basetemplates.com/ui-ux-design-resources) | A massive, free collection of online design resources for UI and UX designers, assembled by BaseTemplates.                                                |
+| [UXArchive](https://uxarchive.com/)                                            | Automatically generated database of hundreds of UX flows across dozens of mobile apps.                                                                    |
+| [UXPlanet](https://uxplanet.org/)                                              | One-stop resource for everything related to user experience.                                                                                              |
+| [UX Collective](https://uxdesign.cc/)                                          | Blog discussing all aspects of UX design.                                                                                                                 |
+| [UX Stack Exchange](https://ux.stackexchange.com/)                             | StackOverflow for UX designers.                                                                                                                           |
 
 ### Bootcamps, Courses & Certifications
 
