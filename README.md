@@ -28,7 +28,7 @@ What would you like to be?
 - **[Engineering](#engineering)**
   - **[:iphone: iOS Engineer](#ios-engineer)**
   - **[:robot: Android Engineer](#android-engineer)**
-  - **[:globe_with_meridians: Web Developer](#web-developer)**
+  - **[:globe_with_meridians: Web Developer](#full-stack-web-developer)**
   - **[:desktop_computer: DevOps Engineer](#devops-engineer)**
   - **[:brain: Machine Learning Engineer](#machine-learning-engineer)**
   - **[:chart_with_upwards_trend: Data Scientist](#data-scientist)**
