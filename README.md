@@ -23,6 +23,12 @@ Here is a list of the programs, resources, and tools to help you land that dream
 
 ---
 
+## Resume Tools
+
+- [ATSGuard](https://atsguard.com) — ATS resume scanner that tells you exactly which keywords are missing from your resume for a specific job.
+
+---
+
 What would you like to be?
 
 - **[Engineering](#engineering)**
