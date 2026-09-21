@@ -10,6 +10,8 @@ Here is a list of the programs, resources, and tools to help you land that dream
 
 **It is never too late.**
 
+- [HVAC School Guide — Cost vs Metro Pay (2026)](https://hvacschoolguide.com/reports/hvac-training-cost-vs-pay) — Free months-to-recoup table (Philly / Las Vegas / LA + U.S. benchmark) for people evaluating HVAC training ROI.
+
 > ## How To Use This Guide
 >
 > While most of this document is self-explanatory, to save on screen space there are a handful of emojis and short-hands I decided to use
