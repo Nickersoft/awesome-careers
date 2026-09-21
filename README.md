@@ -56,6 +56,7 @@ What would you like to be?
 > - [Dash by General Assembly](https://dash.generalassemb.ly/)
 > - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 > - [Harvard CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+> - [HVAC School Guide — Cost vs Metro Pay (2026)](https://hvacschoolguide.com/reports/hvac-training-cost-vs-pay) — Free months-to-recoup table (Philly / Las Vegas / LA + U.S. benchmark) for people evaluating HVAC training ROI.
 > - [Khan Academy: Intro to Programming](https://www.khanacademy.org/computing/computer-programming)
 > - [Udacity: What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
 > - [UToronto: Learn to Program](https://www.coursera.org/learn/learn-to-program)
