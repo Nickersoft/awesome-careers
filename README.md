@@ -606,6 +606,7 @@ According to Glassdoor, the base salary of a product manager is **~\$100,000/yr*
 | Name                                                                                 | Description                                                                   |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
 | [awesome-product-management](https://github.com/dend/awesome-product-management)     | Crowd-sourced list of tools, articles, books, and more, all designed for PMs. |
+| [OffLadder](https://offladder.com)                                                  | Free career exploration tool that suggests career directions and small real-world experiments to test them. Ages 13+. |
 | [ProductSchool on YouTube](https://www.youtube.com/channel/UC6hlQ0x6kPbAGjYkoz53cvA) | Hundreds of helpful webinars and videos on product management.                |
 
 ### Bootcamps, Courses & Certifications
