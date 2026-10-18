@@ -661,3 +661,5 @@ According to Glassdoor, the base salary of a product manager is **~\$100,000/yr*
 | [ProductSchool](https://productschool.com/slack-community/)                 | Slack            | 60k+       | [ProductSchool](https://productschool.com)'s official Slack community.                                                                    |
 | [ProductTribes](http://www.product-tribes.com/)                             | Slack            | 10k+       | [UX Pin](http://uxpin.com/)'s Slack community for designers, developers, and PMs alike.                                                   |
 | [Women In Product](https://www.facebook.com/groups/womeninproduct)          | Facebook         | 22k+       | Facebook community for the international [Women In Product](https://www.womenpm.org/) organization.                                       |
+
+- [WageLark](https://wagelark.com/) — Free BLS-sourced salary and career explainers by occupation.
