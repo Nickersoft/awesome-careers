@@ -416,6 +416,10 @@ According to Glassdoor, the base pay for a UX/UI designer is **~\$100,000/yr**.
 | [UXPlanet](https://uxplanet.org/)                                              | One-stop resource for everything related to user experience.                                                                                              |
 | [UX Collective](https://uxdesign.cc/)                                          | Blog discussing all aspects of UX design.                                                                                                                 |
 | [UX Stack Exchange](https://ux.stackexchange.com/)                             | StackOverflow for UX designers.                                                                                                                           |
+| [Ashby Jobs Scraper](https://apify.com/publicrecords/ashby-jobs-scraper) | New job postings from any Ashby job board since a date or window (24h, 7d, 30d) (Apify Actor, API + MCP) |
+| [Greenhouse Jobs Scraper](https://apify.com/publicrecords/greenhouse-jobs-scraper) | New job postings from any Greenhouse job board since a date or window (Apify Actor, API + MCP) |
+| [Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper) | New job postings from any Lever job board since a date or window (Apify Actor, API + MCP) |
+| [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) | New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP) |
 
 ### Bootcamps, Courses & Certifications
 
